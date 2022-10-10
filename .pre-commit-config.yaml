@@ -13,9 +13,6 @@ repos:
     rev: v1.2.0
     hooks:
       - id: circleci-orb-validate
-        args:
-          - src # Target the src/ directory.
-          - "true" # Enable pre-pack prior to validation.
 
   - repo: https://github.com/bjd2385/circleci-config-pre-commit-hook
     rev: v1.0.3
