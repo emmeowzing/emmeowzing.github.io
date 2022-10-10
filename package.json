@@ -5,8 +5,8 @@
   "repository": "git@github.com:bjd2385/bjd2385.github.io.git",
   "author": "Emma Doyle <bjd2385.linux@gmail.com>",
   "license": "GPLv3",
-  "private": true
+  "private": true,
   "scripts": {
-
+    "post:new": "./scripts/new-post.sh"
   }
 }
