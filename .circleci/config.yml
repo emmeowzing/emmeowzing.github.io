@@ -10,7 +10,7 @@ orbs:
 workflows:
   bjd2385.github.io:
     jobs:
-      - dynamic/extend:
+      - dynamic/continue:
           context: orb-publishing
           modules: |
             .
