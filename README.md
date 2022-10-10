@@ -1,3 +1,10 @@
-# base
+blog.aperiodicity.com
+---------------------
 
-Base repo for creating other repos with default configuration files
+I stash my observation [b]log notes from nights out with my telescope here.
+
+View my [b]log [here](https://blog.aperiodicity.com).
+
+### Dev notes
+
+If starting on a new machine, run `./scripts/dependencies.sh`.
