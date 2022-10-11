@@ -7,4 +7,4 @@ View my [b]log [here](https://blog.aperiodicity.com).
 
 ### Dev notes
 
-If starting on a new machine, run `./scripts/dependencies.sh`.
+If starting on a new (Debian-based linux) machine, run `./scripts/dependencies.sh`.

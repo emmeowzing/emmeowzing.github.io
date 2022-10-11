@@ -13,7 +13,3 @@ asdf install
 
 # https://jekyllrb.com/docs/
 gem install jekyll bundler
-
-if [ ! -d site/blog ]; then
-    jekyll new site/blog
-fi
