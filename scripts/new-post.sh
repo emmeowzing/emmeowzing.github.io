@@ -1,6 +1,16 @@
 #! /usr/bin/env bash
-# Generate a new post template.
+# Generate a new post template and associated directories.
 
-# `YEAR-MONTH-DAY-title.MARKUP`
+POST_LOCATION="./_posts/$(date +%F)-new-post.markdown"
 
-touch ./_posts/"$(date +%F)"-new-post.markdown
+cat << POST > "$POST_LOCATION"
+---
+layout: post
+title:  "New post!"
+---
+
+# Welcome
+POST
+
+mkdir -p images/"$(date +%F)"
+touch images/"$(date +%F)"/.gitkeep
