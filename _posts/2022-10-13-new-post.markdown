@@ -7,7 +7,7 @@ title:  "Mars: a first observation"
 
 This morning my boys woke me up early, and instead of going back to bed after feeding them, I decided to go for a walk. As I got started, however, I saw that mars was practically overhead. So, I broke out my reflector, set it up on the street here in Boston, and honed in on its disk.
 
-## What I saw
+### What I saw
 
 I didn't see anything surface-wise at either 200x or 400x (with a 2x barlow) besides what appeared to be a potential broad dark-ish spot in the middle of the disk. I think the view at 200x was better than the latter for picking up on this. Possible it's a [dust storm](https://www.jpl.nasa.gov/news/nasas-insight-waits-out-dust-storm) preventing us from seeing the surface, or maybe just bad seeing obscuring the image?
 
