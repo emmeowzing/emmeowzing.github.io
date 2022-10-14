@@ -10,6 +10,8 @@ title:  "New post!"
 ---
 
 # Welcome
+
+{% last_modified_at %}
 POST
 
 mkdir -p images/"$(date +%F)"
