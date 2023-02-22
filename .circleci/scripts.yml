@@ -12,7 +12,12 @@ workflows:
   on-commit:
     jobs:
       - shellcheck/check:
-          dir: ./scripts
+          name: shellcheck [<< matrix.dir >>]
+          matrix:
+            parameters:
+              dir:
+                - scripts/
+            alias: shellcheck
           exclude: SC2148
           filters:
             branches:

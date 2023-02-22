@@ -4,7 +4,7 @@ setup: true
 
 
 orbs:
-  dynamic: bjd2385/dynamic-continuation@3.3.0
+  dynamic: bjd2385/dynamic-continuation@3.4.1
 
 
 workflows:
@@ -13,4 +13,4 @@ workflows:
       - dynamic/continue:
           context: orb-publishing
           modules: |
-            scripts
+            /scripts
