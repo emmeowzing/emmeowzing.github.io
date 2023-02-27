@@ -3,7 +3,7 @@ layout: post
 title:  "Mars: a first observation"
 ---
 
-# First observation: Mars
+## First observation: Mars
 
 This morning my boys woke me up early, and instead of going back to bed after feeding them, I decided to go for a walk. As I got started, however, I saw that mars was practically overhead. So, I broke out my reflector, set it up on the street here in Boston, and honed in on its disk.
 
