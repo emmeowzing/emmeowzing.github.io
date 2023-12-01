@@ -1,13 +1,13 @@
 title: Observation [b]log
-email: bjd2385.linux@gmail.com
+email: emma.ann.doyle@gmail.com
 author: Emma Doyle
 description: >-
   A place where I post my random observations of the night sky
 baseurl: ""
 url: https://blog.aperiodicity.com
-twitter_username: bjd2385
-github_username:  bjd2385
-linkedin_username: bjd2385
+twitter_username: emmeowzing
+github_username:  emmeowzing
+linkedin_username: emmeowzing
 paginate: 10
 paginate_path: /posts/page:num/
 google_analytics: G-2PVB8KPX2Z
