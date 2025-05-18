@@ -1,13 +1,14 @@
 title: Observation [b]log
 email: emma.ann.doyle@gmail.com
 author: Emma Doyle
-description: >-
-  A place where I post my random observations of the night sky
+description: |+
+  A place I stash my random observations of the world
 baseurl: ""
 url: https://blog.aperiodicity.com
-twitter_username: emmeowzing
+bluesky_username: emmeowzing
 github_username:  emmeowzing
 linkedin_username: emmeowzing
+
 paginate: 10
 paginate_path: /posts/page:num/
 google_analytics: G-2PVB8KPX2Z
