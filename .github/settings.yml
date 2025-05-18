@@ -1,10 +1,10 @@
 _extends: .github
 
 repository:
-  name: bjd2385.github.io
-  description: My observation [b]log
+  name: emmeowzing.github.io
+  description: Blog
   homepage: https://blog.aperiodicity.com
 
   # A comma-separated list of topics to set on the repository
-  topics: astronomy, observational astronomy, log
+  topics: blog
   private: false
