@@ -34,9 +34,7 @@ excerpt_separator: <!--more-->
   }
 </style>
 
-
 As I mentiond in the latter section of my last post, I've been building a new orchiarium!
-
 
 ### Species
 
@@ -80,7 +78,6 @@ As I mentiond in the latter section of my last post, I've been building a new or
 - Aeschynanthus (Lipstick plant - prefers warm conditions)
 - Trisetella Didyma
 - Cochleanthes Amazonicap
-- Barbosella Portillae
-
+- Barbosella Portillae ([Spicesotic Plants](https://www.spicesoticplants.co.uk/product-page/barbosella-portillae))
 
 {{ page.last_modified_at }}
