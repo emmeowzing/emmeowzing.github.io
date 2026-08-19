@@ -95,7 +95,7 @@ I think the above is a tiny birdsnest fungi. You can see the little egg-like sha
 Corals come in lots of different colors I learned. And having kept saltwater reef tanks, I can say that it looks a lot like Acropora or a birds nest coral.
 
 ![I think this is a hedgehog mushroom](/images/2026-07-19/95E35458-A292-4086-95E6-2444EA2C9105_1_201_a.jpeg)
-*Hedgehog mushroom*
+*Hedgehog mushroom?*
 
 ### Insects
 
